@@ -1,5 +1,5 @@
 Deluxe Hotel Website - Landingpage
 
-A website work where Flex structures are used extensively.
+A website work where Flex structures are used extensively. Responsive design.
 
-https://ramazankrty.github.io/DeluxeHotel/
+Link: https://ramazankrty.github.io/DeluxeHotel/
